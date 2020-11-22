@@ -1,6 +1,6 @@
 # Bird2Pixel
 
-![alt text](https://github.com/XXX/Bird2Pixel/blob/main/plot.png)
+![alt text](https://github.com/SuriDipannitaSayeed/Bird2Pixel/blob/main/plot.png)
 
 Running instructions:\
 1. run the first 2 cells in Bird2pixel.ipynb file\
