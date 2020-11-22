@@ -3,7 +3,7 @@
 ![alt text](https://github.com/SuriDipannitaSayeed/Bird2Pixel/blob/main/plot.png)
 
 Running instructions:
-1. run the first 2 cells in Bird2pixel.ipynb file\\
+1. run the first 2 cells in Bird2pixel.ipynb file\
 2.After creating the directories unzip the anchor.zip and candidate.zip files  put the sample anchor and candidate files in respective directories.
 3. run the cell 3 and 4 to get the clusters.
 4. after getting the clusters manually scrutinize the number of false positives and false negatives to calculate this values.
