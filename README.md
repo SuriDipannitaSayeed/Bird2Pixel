@@ -9,4 +9,4 @@ Running instructions:\
 4. after getting the clusters manually scrutinize the number of false positives and false negatives to calculate this values.
 precision =TP/TP +FP , recall =TP/TP +FN, F_1 = 2∗(Recall∗Precision)/(Recall+Precision)
 5.run cell 5 to see the k means result.\
-6. For updateing: The given example is for 8 cluster on 40 samples. Any number of samples and clusters can be generated just need to create the cluste rdirectories in colab environment and add the anchor candidate files in respective folders finally add the additianla cluster information in cell 3.
+6. For updateing: The given example is for 8 cluster on 40 samples. Any number of samples and clusters can be generated, need to create the cluster directories in colab environment and add the anchor/candidate files in respective folders finally add the additional cluster information in cell 3.
